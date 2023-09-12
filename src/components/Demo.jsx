@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import { copy, linkIcon, loader, tick } from "../assets";
-import { TECollapse, TERipple } from "tw-elements-react";
 import { useLazyGetSummeryQuery } from "../services/article";
 import send from '../assets/send.png'
 function Demo() {
