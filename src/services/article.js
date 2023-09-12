@@ -23,5 +23,5 @@ export const articleApi = createApi({
     }),
   }),
 });
-
+// fkkkf
 export const { useLazyGetSummeryQuery } = articleApi;
